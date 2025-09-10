@@ -1,1 +1,1 @@
-# Data-analysis-tasks-at-Shai
+my own tasks and assignments at Shai data science track
